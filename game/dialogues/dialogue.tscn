@@ -14,9 +14,9 @@ func start():
 	
 	$NinePatchRect/RichTextLabel.text = dialogue [0][\"text\"]
 func load_dialogue():
-	var file = File.Access.New()
+	var file = file.New()
 	if file.file_exists(d_file):
-		file.open(d_file, file.READ)
+		FileAccess.open(d_file, file.READ)
 		return JSON.parse_string(file.get_as_text())
 
 "

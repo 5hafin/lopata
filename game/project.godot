@@ -11,12 +11,8 @@ config_version=5
 [application]
 
 config/name="Game"
-<<<<<<< Updated upstream
 run/main_scene="res://scene/world.tscn"
 config/features=PackedStringArray("4.1", "Forward Plus")
-=======
-config/features=PackedStringArray("4.2", "Forward Plus")
->>>>>>> Stashed changes
 config/icon="res://icon.svg"
 
 [input]
