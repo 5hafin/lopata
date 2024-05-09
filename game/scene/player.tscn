@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://dqxpcshoxqc3h"]
 
 [ext_resource type="Script" path="res://scripts/player.gd" id="1_5u1hp"]
-[ext_resource type="Texture2D" uid="uid://dbbkke8314b0g" path="res://art/0000.png" id="2_h1a5r"]
+[ext_resource type="Texture2D" uid="uid://cuydrkedg4mk6" path="res://art/пипц.svg" id="2_qqnwq"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_jtess"]
 size = Vector2(123, 128)
@@ -19,15 +19,16 @@ position_smoothing_enabled = true
 position = Vector2(-0.5, -1)
 shape = SubResource("RectangleShape2D_jtess")
 
-[node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("2_h1a5r")
-hframes = 12
-frame = 11
-
 [node name="Detection_zone" type="Area2D" parent="."]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Detection_zone"]
 shape = SubResource("CircleShape2D_7fh65")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(25, 1)
+texture = ExtResource("2_qqnwq")
+hframes = 12
+frame = 3
 
 [connection signal="body_entered" from="Detection_zone" to="." method="_on_detection_zone_body_entered"]
 [connection signal="body_exited" from="Detection_zone" to="." method="_on_detection_zone_body_exited"]
