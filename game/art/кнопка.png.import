@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://wywri1epdjo7"
-path="res://.godot/imported/звездв.png-5b9005bc0d98b4b12a9ab2043cd73060.ctex"
+uid="uid://cwhky20b7i4pa"
+path="res://.godot/imported/кнопка.png-ce15e6eadda1660509c47600cf3f032f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/звездв.png"
-dest_files=["res://.godot/imported/звездв.png-5b9005bc0d98b4b12a9ab2043cd73060.ctex"]
+source_file="res://art/кнопка.png"
+dest_files=["res://.godot/imported/кнопка.png-ce15e6eadda1660509c47600cf3f032f.ctex"]
 
 [params]
 

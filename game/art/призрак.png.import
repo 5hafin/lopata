@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b5fw2wgxoapbh"
-path="res://.godot/imported/монстер.png-55998de4ec887a59ac94d0886e63d6c1.ctex"
+uid="uid://duvf1jxls5ofw"
+path="res://.godot/imported/призрак.png-acbdddef770ee1eec6474262d6b845c8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/монстер.png"
-dest_files=["res://.godot/imported/монстер.png-55998de4ec887a59ac94d0886e63d6c1.ctex"]
+source_file="res://art/призрак.png"
+dest_files=["res://.godot/imported/призрак.png-acbdddef770ee1eec6474262d6b845c8.ctex"]
 
 [params]
 

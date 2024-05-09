@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c6fqn4fwqpn5i"
-path="res://.godot/imported/фон1.png-c5ebcb409ef3c7a189f9efae83bed025.ctex"
+uid="uid://b5fw2wgxoapbh"
+path="res://.godot/imported/монстер.png-6fbe5321cb55500f98d5a0941b063f22.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/фон1.png"
-dest_files=["res://.godot/imported/фон1.png-c5ebcb409ef3c7a189f9efae83bed025.ctex"]
+source_file="res://art/монстер.png"
+dest_files=["res://.godot/imported/монстер.png-6fbe5321cb55500f98d5a0941b063f22.ctex"]
 
 [params]
 

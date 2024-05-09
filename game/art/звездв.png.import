@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://xa2expew2rct"
-path="res://.godot/imported/фон целый.png-2508fca7beeddb4a9a66a23798f2e70d.ctex"
+uid="uid://wywri1epdjo7"
+path="res://.godot/imported/звездв.png-878772c046587e7de3131e41fed595f9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/фон целый.png"
-dest_files=["res://.godot/imported/фон целый.png-2508fca7beeddb4a9a66a23798f2e70d.ctex"]
+source_file="res://art/звездв.png"
+dest_files=["res://.godot/imported/звездв.png-878772c046587e7de3131e41fed595f9.ctex"]
 
 [params]
 

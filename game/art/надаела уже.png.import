@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dquukkb82afy3"
-path="res://.godot/imported/художник устал.png-e88c2eb5d39c1cf13d25cb0083a4216a.ctex"
+uid="uid://n3hy67t8hnwr"
+path="res://.godot/imported/надаела уже.png-3287bd05bc08139d083eb25bad41d50c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/художник устал.png"
-dest_files=["res://.godot/imported/художник устал.png-e88c2eb5d39c1cf13d25cb0083a4216a.ctex"]
+source_file="res://art/надаела уже.png"
+dest_files=["res://.godot/imported/надаела уже.png-3287bd05bc08139d083eb25bad41d50c.ctex"]
 
 [params]
 

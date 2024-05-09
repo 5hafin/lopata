@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dni4qw365aw71"
-path="res://.godot/imported/что то.png-658462d563596a3be98905b7d4b6c992.ctex"
+uid="uid://bsthcq2k5lc1c"
+path="res://.godot/imported/иконка- начало игры.png-1fe10c86f3c82d6651c233aa8c0cc0df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/что то.png"
-dest_files=["res://.godot/imported/что то.png-658462d563596a3be98905b7d4b6c992.ctex"]
+source_file="res://art/иконка- начало игры.png"
+dest_files=["res://.godot/imported/иконка- начало игры.png-1fe10c86f3c82d6651c233aa8c0cc0df.ctex"]
 
 [params]
 

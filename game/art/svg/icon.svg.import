@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwhky20b7i4pa"
-path="res://.godot/imported/кнопка.png-575522148f91ad84b5c441014662c293.ctex"
+uid="uid://yd02aen2u1u7"
+path="res://.godot/imported/icon.svg-d2bc2af3e7526d66524fd4bfa4021b3b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/кнопка.png"
-dest_files=["res://.godot/imported/кнопка.png-575522148f91ad84b5c441014662c293.ctex"]
+source_file="res://art/svg/icon.svg"
+dest_files=["res://.godot/imported/icon.svg-d2bc2af3e7526d66524fd4bfa4021b3b.ctex"]
 
 [params]
 
@@ -32,3 +32,6 @@ process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
 detect_3d/compress_to=1
+svg/scale=1.0
+editor/scale_with_editor_scale=false
+editor/convert_colors_with_editor_theme=false

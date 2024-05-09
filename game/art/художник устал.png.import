@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://40lihs0l47yf"
-path="res://.godot/imported/обл2.png-626d77d5f59bbcbd7d9a3d8f36dbd583.ctex"
+uid="uid://dquukkb82afy3"
+path="res://.godot/imported/художник устал.png-3e3c07bbe418229ad575090ecb4d8f25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/обл2.png"
-dest_files=["res://.godot/imported/обл2.png-626d77d5f59bbcbd7d9a3d8f36dbd583.ctex"]
+source_file="res://art/художник устал.png"
+dest_files=["res://.godot/imported/художник устал.png-3e3c07bbe418229ad575090ecb4d8f25.ctex"]
 
 [params]
 

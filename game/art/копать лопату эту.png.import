@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bsthcq2k5lc1c"
-path="res://.godot/imported/иконка- начало игры.png-471730bab38524b23a2c8eeeb1c89f07.ctex"
+uid="uid://djqji0d87x6sn"
+path="res://.godot/imported/копать лопату эту.png-bc450370a0c3f6bdb110f5ae64b8aadd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/иконка- начало игры.png"
-dest_files=["res://.godot/imported/иконка- начало игры.png-471730bab38524b23a2c8eeeb1c89f07.ctex"]
+source_file="res://art/копать лопату эту.png"
+dest_files=["res://.godot/imported/копать лопату эту.png-bc450370a0c3f6bdb110f5ae64b8aadd.ctex"]
 
 [params]
 

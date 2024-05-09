@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cmr6usuugmgnt"
-path="res://.godot/imported/д3.png-68b4096acaf2799c151209302564c42f.ctex"
+uid="uid://j46xa1gamf6i"
+path="res://.godot/imported/лопата.png-4afdaaf71b7e8384c33245e41258bc56.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/д3.png"
-dest_files=["res://.godot/imported/д3.png-68b4096acaf2799c151209302564c42f.ctex"]
+source_file="res://art/лопата.png"
+dest_files=["res://.godot/imported/лопата.png-4afdaaf71b7e8384c33245e41258bc56.ctex"]
 
 [params]
 

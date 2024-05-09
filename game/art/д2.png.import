@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://tv7dyoylf5io"
-path="res://.godot/imported/попытка пытка — копия.png-661dbcde7f445ad4d7825a069e6d9fde.ctex"
+uid="uid://ca8veytstgmx7"
+path="res://.godot/imported/д2.png-705ebb8d187d870d083e9fc116e15b10.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://player/попытка пытка — копия.png"
-dest_files=["res://.godot/imported/попытка пытка — копия.png-661dbcde7f445ad4d7825a069e6d9fde.ctex"]
+source_file="res://art/д2.png"
+dest_files=["res://.godot/imported/д2.png-705ebb8d187d870d083e9fc116e15b10.ctex"]
 
 [params]
 
