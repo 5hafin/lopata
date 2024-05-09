@@ -1,0 +1,29 @@
+~ start
+
+if Global.meet_lopata == false:
+	
+	{{Global.meet_lopata == true}}
+	
+	Lopata: [[Hi|Hello|Howdy]]... How may i help?
+	- How are you?
+		Lopata: ИДИ НАХУЙ.
+		
+		- Сам иди нахуй
+			=> END
+		- Я уже тут
+			Lopata: Ебать таронтиновские диалоги
+			
+				
+		
+	- Bye
+		=> END
+	
+else:
+	Lopata: Я тебе яйца отстрелю, уёбок
+	
+		
+		
+
+ 
+		 
+	
