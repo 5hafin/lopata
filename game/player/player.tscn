@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://dqxpcshoxqc3h"]
 
 [ext_resource type="Script" path="res://player/player.gd" id="1_5u1hp"]
-[ext_resource type="Texture2D" uid="uid://yd02aen2u1u7" path="res://icon.svg" id="2_17qvt"]
+[ext_resource type="Texture2D" uid="uid://djqji0d87x6sn" path="res://player/копать лопату эту.png" id="2_plwjk"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_jtess"]
 size = Vector2(123, 128)
@@ -20,7 +20,8 @@ position = Vector2(-0.5, -1)
 shape = SubResource("RectangleShape2D_jtess")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-texture = ExtResource("2_17qvt")
+texture = ExtResource("2_plwjk")
+hframes = 12
 
 [node name="Detection_zone" type="Area2D" parent="."]
 
