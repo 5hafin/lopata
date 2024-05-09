@@ -22,13 +22,12 @@ shape = SubResource("RectangleShape2D_jtess")
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("2_plwjk")
 hframes = 12
+frame = 5
 
 [node name="Detection_zone" type="Area2D" parent="."]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Detection_zone"]
 shape = SubResource("CircleShape2D_7fh65")
 
-[connection signal="area_entered" from="Detection_zone" to="." method="_on_detection_zone_area_entered"]
-[connection signal="area_exited" from="Detection_zone" to="." method="_on_detection_zone_area_exited"]
 [connection signal="body_entered" from="Detection_zone" to="." method="_on_detection_zone_body_entered"]
 [connection signal="body_exited" from="Detection_zone" to="." method="_on_detection_zone_body_exited"]

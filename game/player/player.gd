@@ -37,25 +37,15 @@ func _physics_process(_delta):
 			return
 
 
-func _on_detection_zone_area_entered(_body):
-	print("вошёл")
-	if _body.has_method("dialogue"):
-		select_dialogue = true
-		print(select_dialogue)
-		
-	
-	pass # Replace with function body.
-
-
-
 
 func _on_detection_zone_body_entered(_body):
-	print("вошёл")
+	
 	if _body.has_method("dialogue"):
 		select_dialogue = true
-		print(select_dialogue)
+		
 	pass # Replace with function body.
 
 
 func _on_detection_zone_body_exited(_body):
+	select_dialogue = false
 	pass # Replace with function body.
