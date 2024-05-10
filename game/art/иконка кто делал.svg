@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 748.35 748.35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8eedf3;
+        stroke: #5a51ce;
+        stroke-width: 6px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        fill: #e3ef48;
+        font-size: 16px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: NoirPro-MediumItalic, NoirPro-MediumItalic;
+        font-style: italic;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        letter-spacing: .03em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #6549d8;
+        stroke: #583096;
+        stroke-width: 2px;
+      }
+
+      .cls-9 {
+        fill: #ad6ff5;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: #f456ca;
+        font-size: 26px;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="258.53" y="268.68" width="231.28" height="219.98" rx="21.26" ry="21.26"/>
+  <rect class="cls-2" x="276.34" y="318.68" width="192.74" height="153.63" rx="21.26" ry="21.26"/>
+  <rect class="cls-9" x="283.27" y="327.31" width="181.81" height="36.55" rx="13.61" ry="13.61"/>
+  <rect class="cls-9" x="283.27" y="377.04" width="181.81" height="36.55" rx="13.61" ry="13.61"/>
+  <rect class="cls-9" x="283.27" y="426.77" width="181.81" height="36.55" rx="13.61" ry="13.61"/>
+  <text class="cls-5" transform="translate(283.8 306.94)"><tspan x="0" y="0">Р</tspan><tspan class="cls-11" x="15.39" y="0">аз</tspan><tspan x="44.51" y="0">р</tspan><tspan class="cls-13" x="60.74" y="0">а</tspan><tspan x="76.75" y="0">б</tspan><tspan class="cls-14" x="92.14" y="0">о</tspan><tspan class="cls-7" x="107.12" y="0">т</tspan><tspan class="cls-11" x="120.43" y="0">чи</tspan><tspan class="cls-10" x="150.38" y="0">ки</tspan></text>
+  <text class="cls-4" transform="translate(349.02 349.24)"><tspan x="0" y="0">ShaF</tspan><tspan class="cls-8" x="37.12" y="0">i</tspan><tspan x="41.09" y="0">n</tspan></text>
+  <text class="cls-4" transform="translate(344.81 399.27)"><tspan x="0" y="0">M</tspan><tspan class="cls-6" x="13.82" y="0">i</tspan><tspan class="cls-12" x="17.79" y="0">n L</tspan><tspan class="cls-8" x="39.81" y="0">a</tspan><tspan x="49.66" y="0">n</tspan></text>
+  <text class="cls-4" transform="translate(341.73 450.67)"><tspan x="0" y="0">Mr.S</tspan><tspan class="cls-8" x="34.56" y="0">i</tspan><tspan class="cls-3" x="38.53" y="0">g</tspan><tspan class="cls-15" x="48.26" y="0">a</tspan><tspan x="58.11" y="0">r</tspan></text>
+</svg>
